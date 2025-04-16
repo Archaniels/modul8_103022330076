@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\modul\\modul8_103022330076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|d:\\modul\\modul8_103022330076\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|solutionrelative:banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|d:\\modul\\modul8_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|d:\\modul\\modul8_103022330076\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B88C893-5612-4804-8FC8-E7FB47C63C71}|modul8_103022330076.csproj|solutionrelative:bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\modul\\modul8_103022330076\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "bank_transfer_config.json",
+              "ToolTip": "D:\\modul\\modul8_103022330076\\bank_transfer_config.json",
+              "RelativeToolTip": "bank_transfer_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T08:49:02.669Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,12 +44,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\modul\\modul8_103022330076\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "BankTransferConfig.cs",
+              "ToolTip": "D:\\modul\\modul8_103022330076\\BankTransferConfig.cs",
+              "RelativeToolTip": "BankTransferConfig.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:47:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\modul\\modul8_103022330076\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\modul\\modul8_103022330076\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:42:47.504Z",
               "EditorCaption": ""
